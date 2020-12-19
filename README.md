@@ -1,2 +1,2 @@
 # HTML-Web-Development-Tutorial
-This monitors my growth and progress on the HTML tutorial from freecodecamp
+This is a repo of my html and css codes tutorial from freecodecamp
